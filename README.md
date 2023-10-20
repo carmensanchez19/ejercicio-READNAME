@@ -6,17 +6,21 @@ Tienda de Animales Happy pets.
 
 Este proyecto tiene como objetivo establecer una tienda de animales en línea, denominada "Happy Pets", donde se ofrecerán una variedad de productos diseñados para satisfacer las necesidades y gustos de todas las mascotas. Desde alimentos de alta calidad hasta juguetes, ropa con estilo, accesorios y productos especializados para el cuidado de mascotas, buscamos proporcionar a los dueños de mascotas una experiencia de compra conveniente y satisfactoria.
 
-! [Perritos](tiendas-animales.jpg)
+! [Cartel Animales](tiendas-animales.jpg)
 
 
 ## Construido con 🛠️
 
 Menciona las herramientas que utilizaste para crear tu proyecto
 
-* [React](http://www.dropwizard.io/1.0.2/docs/) - Biblioteca para construir interfaces de usuario.
-* [Node.js](https://maven.apache.org/) - Entorno de ejecución para JavaScript
-* [Express](https://rometools.github.io/rome/) - Infraestructura web para Node.js
+* [React](https://es.react.dev/learn) - Biblioteca para construir interfaces de usuario.
+! [logo](react-logo.jpg)
 
+* [Node.js](https://nodejs.org/es/docs) - Entorno de ejecución para JavaScript
+! [logo](descarga.png)
+
+* [Express](https://expressjs.com/) - Infraestructura web para Node.js
+! [logo](express.png)
 
 ## Wiki 📖
 
