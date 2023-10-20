@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Happy pets
 
 Tienda de Animales Happy pets.
 
