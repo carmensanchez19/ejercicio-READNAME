@@ -24,11 +24,7 @@ Menciona las herramientas que utilizaste para crear tu proyecto
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/carmensanchez19/proyectoIntegrado)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://animales.wiki/)
 
 ## Autores ✒️
 
