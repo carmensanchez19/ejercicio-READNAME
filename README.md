@@ -4,7 +4,10 @@ Tienda de Animales Happy pets.
 
 ## Descripción 🚀
 
-Este proyecto tiene como objetivo establecer una tienda de animales en línea, denominada "Happy Pets", donde se ofrecerán una variedad de productos diseñados para satisfacer las necesidades y gustos de todas las mascotas. Desde alimentos de alta calidad hasta juguetes, ropa con estilo, accesorios y productos especializados para el cuidado de mascotas, buscamos proporcionar a los dueños de mascotas una experiencia de compra conveniente y satisfactoria.
+Este proyecto tiene como objetivo establecer una tienda de animales en línea, denominada "Happy Pets",
+donde se ofrecerán una variedad de productos diseñados para satisfacer las necesidades y gustos de todas las mascotas.
+Desde alimentos de alta calidad hasta juguetes, ropa con estilo, accesorios y productos especializados para el cuidado de mascotas,
+buscamos proporcionar a los dueños de mascotas una experiencia de compra conveniente y satisfactoria.
 
 ! [Cartel Animales](tiendas-animales.jpg)
 
